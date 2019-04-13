@@ -8,5 +8,5 @@ import com.parse.ParseObject;
 class Post extends ParseObject {
 
 
-    
+
 }
